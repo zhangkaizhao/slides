@@ -1,0 +1,7 @@
+https://speakerdeck.com/playpauseandstop/introduction-to-asyncio-stack
+
+
+Introduction to Asyncio stack by Igor Davydenko
+Published May 30, 2015 in Programming
+
+Brief introduction to Asyncio stack for Python web developers. Describing aiohttp.web, aiopg, and rororo - libraries for building web applications on top of Python 3.

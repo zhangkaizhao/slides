@@ -1,0 +1,9 @@
+https://speakerdeck.com/playpauseandstop/await-era
+
+
+Welcome to async/await era by Igor Davydenko
+Published October 19, 2015 in Programming
+
+PEP492 accepted and Python 3.5 will have new async/await statements. Talk will introduce them to the audience and shows examples on how to and when to use.
+
+Talk also covers how async/await helps to write better and clear asyncio web applications on top of aiohttp library and shows common patterns to use, while making backend applications on Python 3.5.
