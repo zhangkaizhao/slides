@@ -1,0 +1,18 @@
+http://www.slideshare.net/KevinModzelewski/pyston-talk-111015
+
+
+via http://blog.pyston.org/2015/11/24/pyston-talk-recording/
+
+
+Pyston talk 11-10-15
+
+Kevin Modzelewski, Software Engineer at Dropbox
+
+Published on Dec 02, 2015
+
+Slides for the Pyston tech talk
+
+Recording: https://www.youtube.com/watch?v=NdB9XoBg5zI
+Blog post: http://blog.pyston.org/2015/11/24/pyston-talk-recording/
+
+Published in: Software
