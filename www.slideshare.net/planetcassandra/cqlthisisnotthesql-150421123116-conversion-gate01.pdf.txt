@@ -1,0 +1,1 @@
+http://www.slideshare.net/planetcassandra/cassandra-day-chicago-2015-cql-this-is-not-the-sql-you-were-looking-for
