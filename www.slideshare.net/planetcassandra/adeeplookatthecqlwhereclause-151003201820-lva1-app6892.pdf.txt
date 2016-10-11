@@ -1,0 +1,3 @@
+http://www.slideshare.net/planetcassandra/datastax-a-deep-look-at-the-cql-where-clause
+
+DataStax: A deep look at the CQL WHERE clause

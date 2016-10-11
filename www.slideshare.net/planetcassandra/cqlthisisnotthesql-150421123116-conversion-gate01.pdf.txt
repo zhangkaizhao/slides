@@ -1,1 +1,3 @@
 http://www.slideshare.net/planetcassandra/cassandra-day-chicago-2015-cql-this-is-not-the-sql-you-were-looking-for
+
+Cassandra Day Chicago 2015: CQL: This is not he SQL you are looking for
