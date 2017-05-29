@@ -1,0 +1,3 @@
+https://speakerdeck.com/doubaokun/high-available-message-queue-rabbitmq
+
+via https://blog.eood.cn/high_available_mq
