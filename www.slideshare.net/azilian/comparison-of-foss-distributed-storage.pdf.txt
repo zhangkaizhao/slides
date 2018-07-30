@@ -1,0 +1,12 @@
+https://www.slideshare.net/azilian/comparison-of-foss-distributed-storage
+
+Comparison of foss distributed storage
+
+Marian Marinov, CEO
+
+Published on Oct 24, 2017
+
+In this presentation I compare different FOSS distributed file systems.
+
+Published in: Engineering
+License: CC Attribution-ShareAlike License
