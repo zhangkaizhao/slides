@@ -1,0 +1,14 @@
+https://speakerdeck.com/lemiorhan/10-git-anti-patterns-you-should-be-aware-of
+
+# 10 Git Anti Patterns You Should be Aware of
+
+This is the slide deck I presented at ITAKE UnConf 2018.
+
+Git is one of the most powerful tool in developers' toolbox. If you use it correctly, it dramatically increases productivity of developers and eliminates the waste products continuously. Developers cultivate a development culture on top Git most of the time.
+
+It's powerful but its power is untamed. Many teams fall into several traps of misusing commands and therefore feel uncomfortable while using Git. We mess up Git history, the codebase and the whole preferred branching strategy in seconds. We use branches, merge/rebase strategies, creating commits in wrong ways. Even we never take committing paradigms into account while using Git.
+
+As a software craftsman, I've been using Git for years and I've already educated Git to hundreds of developers in all levels. I'm so lucky; I had a chance to experience huge amount of anti-patterns in time. In this talk, I will talk about what those anti-patterns are and what should we do in order not to fall into them.
+
+Lemi Orhan Ergin
+June 07, 2018
