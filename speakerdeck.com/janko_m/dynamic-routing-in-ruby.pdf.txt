@@ -1,0 +1,10 @@
+https://speakerdeck.com/janko_m/dynamic-routing-in-ruby
+
+# Dynamic routing in Ruby
+
+Most of us are Rails developers, so we’re used to the way Rails routes requests. Most Ruby web frameworks also use a similar approach, but some are stepping off the rails.
+
+Roda and Cuba route requests in what I would call a “dynamic” way, which I found very natural and flexible. I will compare the two approaches and demonstrate the advantages I see in dynamic routing.
+
+Janko Marohnić
+February 27, 2018
