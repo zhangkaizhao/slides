@@ -1,0 +1,10 @@
+https://speakerdeck.com/brettchalupa/educating-with-ruby
+
+via https://rabbit-shocker.org/en/slides.html
+
+Educating with Ruby
+
+Why Ruby is a Great Language for Teaching (and Learning) Programming
+
+Brett Chalupa
+September 21, 2013
